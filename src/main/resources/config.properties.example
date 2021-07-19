@@ -1,0 +1,14 @@
+env=staging
+headless=yes
+dataFile=test_data.xlsx
+resultsPath=Results
+wait=40
+sendEmail=no
+
+testSuiteFile=testng.xml
+
+mail.smtp.host=
+mail.smtp.host.username=
+mail.smtp.host.password=
+mail.smtp.auth=
+mail.smtp.port=
