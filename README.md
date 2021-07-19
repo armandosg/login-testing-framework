@@ -137,7 +137,7 @@ That's it. You have successfully added a new test case.
 
 ## Usage
 
-Now you are all set to run the test cases. To run it using and IDE just right-click on the testng.xml file and select run.
+Now you are all set to run the test cases. To run it using an IDE, just right-click on the testng.xml file and select run.
 
 If you are using a text editor you have to run this command: `java org.testng.TestNG testng.xml`
 
